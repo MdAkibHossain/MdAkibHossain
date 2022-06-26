@@ -4,7 +4,7 @@
 
 I’m a Front End Flutter developer. I am passionate about making error-free, client satisfactory Flutter apps. I love to solve real-world problems. Over the past years, I created and worked with many Flutter projects.
 
-Skills: Flutter / Dart /Node.js/ JS / HTML / CSS
+Skills: Flutter /Dart /Golang /Python /C /C++ /Java /HTML /CSS /PHP /JS
 
 - 🔭 I’m currently working on Flutter 
 - 🌱 I’m currently learning Node.js 
