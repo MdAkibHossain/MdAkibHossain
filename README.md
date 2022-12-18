@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Akib Hossain.
-#### I am a Flutter Developer.
-![I am a Flutter Developer.](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/195512491/original/899a5d991338c0a3d3321de2ea4ef1b9f96ed71e/flutter-mobile-app-developer-do-flutter-app-development.jpg)
+#### I am a Flutter Developer and learning Golang.
+![I am a Flutter Developer.](https://miro.medium.com/max/1400/1*hIzmaZ2vRWYsJwor-YxKmw.png)
 
 I’m a Flutter developer. I’m currently learning Golang as a back-end language. I am passionate about making error-free and client satisfactory projects. I love to solve real-world problems. Over the past years, I created and worked with many successful projects.
 
