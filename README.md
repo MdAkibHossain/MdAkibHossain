@@ -2,12 +2,12 @@
 #### I am a Flutter Developer.
 ![I am a Flutter Developer.](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/195512491/original/899a5d991338c0a3d3321de2ea4ef1b9f96ed71e/flutter-mobile-app-developer-do-flutter-app-development.jpg)
 
-I’m a Front End Flutter developer. I am passionate about making error-free, client satisfactory Flutter apps. I love to solve real-world problems. Over the past years, I created and worked with many Flutter projects.
+I’m a Flutter developer. I’m currently learning Golang as a back-end language. I am passionate about making error-free and client satisfactory projects. I love to solve real-world problems. Over the past years, I created and worked with many successful projects.
 
-Skills: Flutter /Dart /Golang /Python /C /C++ /Java /HTML /CSS /PHP /JS
+Skills: Flutter /Dart /Golang /MongoDB /SQL /My SQL /Python /C /C++ /Java /HTML /CSS /PHP /JS
 
 - 🔭 I’m currently working on Flutter 
-- 🌱 I’m currently learning Node.js 
+- 🌱 I’m currently learning Golang 
 - 📫 How to reach me: akib.islam.ai@gmail.com 
 
 
