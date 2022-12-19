@@ -21,8 +21,6 @@ Skills: Flutter /Dart /Golang /MongoDB /SQL /My SQL /Python /C /C++ /Java /HTML 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdAkibHossain&show_icons=true)  
 
-//![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdAkibHossain)  
-
 ![GitHub metrics](https://metrics.lecoq.io/MdAkibHossain)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MdAkibHossain)  
