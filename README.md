@@ -2,12 +2,12 @@
 #### I am a Flutter Developer and learning Golang.
 ![I am a Flutter Developer.](https://miro.medium.com/max/1400/1*hIzmaZ2vRWYsJwor-YxKmw.png)
 
-I’m a Flutter developer. I’m currently learning Golang as a back-end language. I am passionate about making error-free and client satisfactory projects. I love to solve real-world problems. Over the past years, I created and worked with many successful projects.
+I’m a font-end Flutter developer & back-end Golang developer. I’m currently learning Node JS. I am passionate about making error-free and client satisfactory projects. I love to solve real-world problems. Over the past years, I created and worked with many successful projects.
 
 Skills: Flutter /Dart /Golang /MongoDB /SQL /My SQL /Python /C /C++ /Java /HTML /CSS /PHP /JS
 
-- 🔭 I’m currently working on Flutter 
-- 🌱 I’m currently learning Golang 
+- 🔭 Now I’m currently working on Flutter & Golang 
+- 🌱 I’m currently learning Node JS 
 - 📫 How to reach me: akib.islam.ai@gmail.com 
 
 
