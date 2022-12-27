@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Akib Hossain.
-#### I am a Flutter Developer and learning Golang.
-![I am a Flutter Developer.](https://miro.medium.com/max/1400/1*hIzmaZ2vRWYsJwor-YxKmw.png)
+#### I’m a font-end Flutter developer & back-end Golang developer.
+![I’m a font-end Flutter developer & back-end Golang developer.](https://miro.medium.com/max/1400/1*hIzmaZ2vRWYsJwor-YxKmw.png)
 
 I’m a font-end Flutter developer & back-end Golang developer. I’m currently learning Node JS. I am passionate about making error-free and client satisfactory projects. I love to solve real-world problems. Over the past years, I created and worked with many successful projects.
 
